@@ -1,6 +1,4 @@
 # Reproductor MP3 desde USB-OTG con display LCD y modulador de FM
-Proyectos de la Carrera de Especialización en Sistemas Embibidos 2018
-
 
 # Compilación
 
