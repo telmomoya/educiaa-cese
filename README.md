@@ -1,3 +1,7 @@
+# Reproductor MP3 desde USB-OTG con display LCD
+Proyectos de la Carrera de Especialización en Sistemas Embibidos 2018
+
+
 # Compilación
 
 Para compilar y grabar M4 Core:
@@ -31,7 +35,4 @@ Las conexiones al TFT LCD ILI9341 son:
 		CLK	-->	SPI_SCK  
 		DO	-->	SPI_MISO  
 		GND	-->	GND				
-    
-# educiaa-cese
-Proyectos de la Carrera de Especialización en Sistemas Embibidos 2018
-    
+ 
