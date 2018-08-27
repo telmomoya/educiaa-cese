@@ -1,4 +1,4 @@
-# Reproductor MP3 desde USB-OTG con display LCD
+# Reproductor MP3 desde USB-OTG con display LCD y modulador FM
 Proyectos de la Carrera de Especialización en Sistemas Embibidos 2018
 
 
@@ -36,3 +36,5 @@ Las conexiones al TFT LCD ILI9341 son:
 		DO	-->	SPI_MISO  
 		GND	-->	GND				
  
+Salida de audio por el DAC y modulación de FM (conectar un cable de antena al pin REF_CLK)
+Frecuancia por defecto: 102 MHz
